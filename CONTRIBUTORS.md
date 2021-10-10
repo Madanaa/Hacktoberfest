@@ -300,3 +300,8 @@
 - Bio: Student, Coder, Batman
 - GitHub: [aakash-hacks](https://github.com/aakash-hacks)
 
+#### Name: MADAN
+- Place: Pilibhit, (U.P.)
+- Bio: Student
+- GitHub: [Madanaa](https://github.com/Madanaa)
+
